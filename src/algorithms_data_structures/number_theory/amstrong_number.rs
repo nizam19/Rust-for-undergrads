@@ -1,5 +1,6 @@
 use std::io;
 
+
 /* An n digit number is an Amstrong number
  * if the sum of nth powers of its digits
  * equals that number
